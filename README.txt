@@ -1,4 +1,4 @@
-// ACK RO Configs V0.9
+// ACK RO Configs V1.0
 
 // Tested in KSP Version 1.12.3
 
